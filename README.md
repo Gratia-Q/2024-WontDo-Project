@@ -3,4 +3,8 @@
 1. Java
 2. Spring Boot
 3. PostgreSQL
-4. 
+4. Kafka
+5. Radis
+6. Docker
+7. Kubernetes
+8. 
