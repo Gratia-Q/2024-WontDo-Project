@@ -5,6 +5,6 @@
 3. PostgreSQL
 4. Kafka
 5. Radis
-6. Docker
-7. Kubernetes
-8. Swagger Docs
+6. Docker, Kubernetes
+7. Swagger Docs
+8. OAuth, Vault
