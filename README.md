@@ -1,6 +1,6 @@
 # 2024-WontDo-Project
 2024 WontDo Project - Backend
-1. Java
+1. Java 17
 2. Spring Boot
 3. PostgreSQL
 4. Kafka
